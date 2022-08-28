@@ -1,0 +1,14 @@
+site_name: Card Game Docs
+
+theme:
+  name: "material"
+
+plugins:
+  - mkdocstrings
+
+nav:
+  - index.md
+  - tutorial.md
+  - how-to-guides.md
+  - reference.md
+  - explanation.md
